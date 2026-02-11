@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ### Hi, I’m Nils 👋
 
 I’m a developer working with .NET, Azure, and modern web technologies.  
