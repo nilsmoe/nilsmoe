@@ -17,11 +17,11 @@ I enjoy building clean, maintainable solutions and automating as much as possibl
 #### 📌 Selected projects
 
 <!-- Replace these with your actual public repos once you have them -->
-- [**project-one**](https://github.com/nilsmoe/project-one)  
-  Short, concrete sentence on what it does and who it’s for.
+- [**IdentityIQ**](https://github.com/nilsmoe/IdentityIQ)  
+  Project for automatic deployment of Sailpoint IIQ
 
-- [**project-two**](https://github.com/nilsmoe/project-two)  
-  What problem it solves / why it’s interesting.
+- [**Automation Test**](https://github.com/nilsmoe/AutomationTest)  
+ A collection of various test scripts/apps.
 
 - [**project-three**](https://github.com/nilsmoe/project-three)  
   Tech used and the main feature.
