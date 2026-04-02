@@ -26,7 +26,6 @@ I enjoy building clean, maintainable solutions and automating as much as possibl
 - [**IIQ on docker**](https://github.com/nilsmoe/docker-iiq)  
   A automated setup of IIQ running on docker.
 
-> Tip: Pin these same repos on your profile (Profile → Customize your pins) so they appear as cards below this text.
 
 ---
 
