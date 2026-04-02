@@ -23,8 +23,8 @@ I enjoy building clean, maintainable solutions and automating as much as possibl
 - [**Automation Test**](https://github.com/nilsmoe/AutomationTest)  
  A collection of various test scripts/apps.
 
-- [**project-three**](https://github.com/nilsmoe/project-three)  
-  Tech used and the main feature.
+- [**IIQ on docker**](https://github.com/nilsmoe/docker-iiq)  
+  A automated setup of IIQ running on docker.
 
 > Tip: Pin these same repos on your profile (Profile → Customize your pins) so they appear as cards below this text.
 
