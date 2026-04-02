@@ -1,15 +1,16 @@
 
 ### Hi, I’m Nils 👋
+I design and operate hybrid infrastructure—on-prem and cloud with Kubernetes and automation built for stability and clarity.
 
-I design and operate hybrid infrastructure—on-prem and cloud—with Kubernetes and automation built for stability and clarity.
-Building a production-style homelab: Proxmox, k3s, CephFS, Traefik, GitOps with Argo CD, and 
-automation with Ansible—documented, repeatable, and always evolving.
+Setting up a production-style testlab: Proxmox, k3s, CephFS, Traefik, GitOps with Argo CD, and 
+automation with Ansible, documented, repeatable, and always evolving.
+
 ---
 
 #### 🧭 What I’m currently focused on
 
-- Working on projects hosted in **Azure DevOps** and mirroring relevant pieces to GitHub
-- Improving CI/CD pipelines and deployment workflows
+- Working on various projects hosted on **GitHub**
+- Improving CI/CD pipelines and deployment workflows for on prem applications
 - Exploring better architectures for modular applications and reusable components
 
 ---
@@ -31,11 +32,15 @@ automation with Ansible—documented, repeatable, and always evolving.
 
 #### 🛠️ Technologies & tools
 
-- **Backend**: C#, .NET, ASP.NET Core  
-- **Cloud / DevOps**: Azure, Azure DevOps, GitHub Actions  
-- **Databases**: SQL Server, (add others you use)  
-- **Frontend**: (React / Angular / plain JS / Razor pages – whatever applies)  
-- **Other**: Docker, REST APIs, unit testing, CI/CD
+- **Virtualization & on-prem**: Proxmox VE, Linux VMs, Ceph / CephFS
+- **Containers & orchestration**: Docker, Docker Compose, Kubernetes (k3s), Helm
+- **GitOps & CI/CD**: Argo CD, GitHub Actions, Git-based workflows
+- **Ingress & APIs**: Traefik, REST/HTTPS, Let’s Encrypt (ACME)
+- **Secrets & artifacts**: Infisical, Nexus Repository Manager
+- **Automation & config**: Ansible, shell, documented runbooks
+- **Networking & DNS**: CoreDNS, Cloudflare (DNS / DDNS), internal zones
+- **Cloud (lab / hybrid)**: DigitalOcean (e.g. droplets, k3s), NetBird (where you use it)
+- **Observability & quality**: structured logging, health checks, repeatable deployments
 
 ---
 
