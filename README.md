@@ -1,9 +1,9 @@
 
 ### Hi, I’m Nils 👋
 
-I’m a developer working with .NET, Azure, and modern web technologies.  
-I enjoy building clean, maintainable solutions and automating as much as possible.
-
+I design and operate hybrid infrastructure—on-prem and cloud—with Kubernetes and automation built for stability and clarity.
+Building a production-style homelab: Proxmox, k3s, CephFS, Traefik, GitOps with Argo CD, and 
+automation with Ansible—documented, repeatable, and always evolving.
 ---
 
 #### 🧭 What I’m currently focused on
